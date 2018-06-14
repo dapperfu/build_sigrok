@@ -8,8 +8,7 @@ libusb-dev
 libzip-dev
 python3.5-dev
 python3.5-venv
-python3.6-dev
-python3.6-venv
 swig2.0
 swig3.0
 libftdi1-dev
+python-gobject-dev
